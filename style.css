@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.peca{
+    width: 7vw;
+    height: 10vh;
+}
+
+.quadrado{
+    width: 8vw;
+    height: 11vh;
+    border: #0a3d62 solid 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.branca{
+    background-color: #82ccdd;
+}
+
+.preta{
+    background-color: #e58e26;
+}
+
+.row{
+    display: flex;
+}
+
+.highlight{
+    background-color: #32ff7e;
+}
+
+.highlightEnemy{
+    background-color: #ff3838;
+}
