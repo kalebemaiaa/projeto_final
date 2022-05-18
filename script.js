@@ -1,16 +1,16 @@
 const images = {
-    "peao1": "../img/peao_branco.png",
-    "bispo1": "../img/bispo_branco.png",
-    "torre1": "../img/torre_branca.png",
-    "rei1": "../img/rei_branco.png",
-    "rainha1": "../img/rainha_branca.png",
-    "cavalo1": "../img/cavalo_branco.png",
-    "peao0": "../img/peao_preto.png",
-    "bispo0": "../img/bispo_preto.png",
-    "torre0": "../img/torre_preta.png",
-    "rei0": "../img/rei_preto.png",
-    "rainha0": "../img/rainha_preta.png",
-    "cavalo0": "../img/cavalo_preto.png"
+    "peao1": "./peao_branco.png",
+    "bispo1": "./bispo_branco.png",
+    "torre1": "./torre_branca.png",
+    "rei1": "./rei_branco.png",
+    "rainha1": "./rainha_branca.png",
+    "cavalo1": "./cavalo_branco.png",
+    "peao0": "./peao_preto.png",
+    "bispo0": "./bispo_preto.png",
+    "torre0": "./torre_preta.png",
+    "rei0": "./rei_preto.png",
+    "rainha0": "./rainha_preta.png",
+    "cavalo0": "./cavalo_preto.png"
 }
 
 let tabuleiro = [
